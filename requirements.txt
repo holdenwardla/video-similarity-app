@@ -1,0 +1,10 @@
+streamlit
+faiss-cpu
+opencv-python
+moviepy
+torch
+torchvision
+Pillow
+matplotlib
+seaborn
+git+https://github.com/openai/CLIP.git
