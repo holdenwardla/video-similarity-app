@@ -1,3 +1,5 @@
+import os
+os.environ["STREAMLIT_WATCH_USE_POLLING"] = "true"
 import streamlit as st
 import os
 import torch
